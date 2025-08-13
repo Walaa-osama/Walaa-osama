@@ -33,13 +33,14 @@
 ---
 
 ## 📌 **Featured Projects**
-
+-🧑‍⚕️**Skintillegent App**
+-🌱**GreenLife App**
 - 📱 **Notes App** – A fast note-taking app using **Hive** database.  
 - 📊 **BMI Calculator** – A responsive app to calculate Body Mass Index.  
 - 🎮 **Pirate Attack Game** – A Unity game with battles, gold collection, and exciting challenges.  
-
+-👽**Enemy Game** - A unity 3D Game.
 ---
 
 📫 **Connect With Me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walaa-osama-ab1337234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Walaa-osama)
