@@ -33,12 +33,13 @@
 ---
 
 ## 📌 **Featured Projects**
--🧑‍⚕️**Skintillegent App**
--🌱**GreenLife App**
+
+- 🌱 **Greenlife App** – An eco-friendly mobile app promoting sustainable living habits.  
+- 💆 **Skintillegent App** – A smart skincare assistant that helps users track and improve their skincare routine.  
 - 📱 **Notes App** – A fast note-taking app using **Hive** database.  
 - 📊 **BMI Calculator** – A responsive app to calculate Body Mass Index.  
 - 🎮 **Pirate Attack Game** – A Unity game with battles, gold collection, and exciting challenges.  
--👽**Enemy Game** - A unity 3D Game.
+
 ---
 
 📫 **Connect With Me:**  
